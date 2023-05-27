@@ -1,7 +1,3 @@
-
-
-
-
 fetch('https://dummyjson.com/products')
 .then((res)=>{
    // console.log(data); json format
